@@ -145,3 +145,12 @@ footer a:visited {
 footer a:hover {
     text-decoration: underline;
 }
+
+table {
+	border: 2px solid;
+	width: 100%;
+}
+tr, th, td {
+	border: 2px solid;
+	padding-left: 5px;
+}
